@@ -5,8 +5,7 @@
 I'm currently working as a Software Developer. I completed my Bachelors of Technology in the domain of Information Techonology in the year 2020.
 I love solving real world problem with technology.  
 
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif"></img>
+<!--<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif"></img>-->
 
 
 - 🌱 I’m currently learning **Java, Springboot.**
