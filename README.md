@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)]
 <h1 align="center">Hi 👋, I'm Deepti Gupta</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A Software developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src=“https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif">
 
